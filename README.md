@@ -1,7 +1,7 @@
 # Schelling Works
 
 This is my project about Schelling’s segregation model.  
-It shows how people’s small preferences can lead to bigger patterns, like segregation, even if they don’t really want that.
+It shows how people’s small preferences can lead to bigger patterns, like segregation.
 
 ## What it does
 
